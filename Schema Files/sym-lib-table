@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name hx711)(type Legacy)(uri ${KIPRJMOD}/hx711.lib)(options "")(descr ""))
+  (lib (name hc05)(type Legacy)(uri ${KIPRJMOD}/hc05.lib)(options "")(descr ""))
+  (lib (name Arduino-EVD-rescue)(type Legacy)(uri ${KIPRJMOD}/Arduino-EVD-rescue.lib)(options "")(descr ""))
+)
